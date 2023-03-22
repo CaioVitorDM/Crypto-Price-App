@@ -1,2 +1,5 @@
 # Crypto-Price-App
-Crypto Price App using Coingecko API. It was made using html, css and javascript. Based on a class from the Youtube channel named "ASMRprog".
+- An application that shows information about some of the most important cryptos, made using Coingecko API and dinamized for all devices.
+- This application was based on the one from the Youtube channel "ASMRprog".
+
+# Authored by Caio Vitor.
